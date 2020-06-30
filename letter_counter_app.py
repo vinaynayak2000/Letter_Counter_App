@@ -1,5 +1,5 @@
 print("Welcome to the Letter Counter App")
-#Takes user input and prints the name 
+#Takes user name and prints the name 
 name = input("What is your name: ").title().strip()
 print("Hello",name,"!")
 #Takes the message and ask for the letter for which the occurrences is to be found
